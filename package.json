@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node nodeFolder/app.js"
+    "start": "node nodeFolder/app.js",
+    "dev": "nodemon nodeFolder/app.js"
   },
   "author": "Pramod",
   "license": "ISC",
